@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ADO.NET_HospitalProject">
+      <HintPath>..\ADO.NET_HospitalProject\bin\Debug\net5.0\ADO.NET_HospitalProject.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ADO.NET_HospitalProject">
+      <HintPath>..\ADO.NET_HospitalProject\bin\Debug\net5.0\ADO.NET_HospitalProject.dll</HintPath>
+    </Reference>
+    <Reference Include="BusinessLogic_dll">
+      <HintPath>..\BusinessLogic_dll\bin\Debug\net5.0\BusinessLogic_dll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

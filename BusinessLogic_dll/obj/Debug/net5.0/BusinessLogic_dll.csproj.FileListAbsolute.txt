@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BusinessLogic_dll\obj\Debug\net5.0\BusinessLogic_dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BusinessLogic_dll\obj\Debug\net5.0\BusinessLogic_dll.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BusinessLogic_dll\obj\Debug\net5.0\BusinessLogic_dll.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BusinessLogic_dll\obj\Debug\net5.0\BusinessLogic_dll.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BusinessLogic_dll\bin\Debug\net5.0\BusinessLogic_dll.deps.json
+C:\Users\Admin\source\repos\BusinessLogic_dll\bin\Debug\net5.0\BusinessLogic_dll.dll
+C:\Users\Admin\source\repos\BusinessLogic_dll\bin\Debug\net5.0\ref\BusinessLogic_dll.dll
+C:\Users\Admin\source\repos\BusinessLogic_dll\bin\Debug\net5.0\BusinessLogic_dll.pdb
+C:\Users\Admin\source\repos\BusinessLogic_dll\bin\Debug\net5.0\ADO.NET_HospitalProject.dll
+C:\Users\Admin\source\repos\BusinessLogic_dll\bin\Debug\net5.0\ADO.NET_HospitalProject.pdb
+C:\Users\Admin\source\repos\BusinessLogic_dll\obj\Debug\net5.0\BusinessLogic_dll.csproj.CopyComplete
+C:\Users\Admin\source\repos\BusinessLogic_dll\obj\Debug\net5.0\BusinessLogic_dll.dll
+C:\Users\Admin\source\repos\BusinessLogic_dll\obj\Debug\net5.0\ref\BusinessLogic_dll.dll
+C:\Users\Admin\source\repos\BusinessLogic_dll\obj\Debug\net5.0\BusinessLogic_dll.pdb
+C:\Users\Admin\source\repos\BusinessLogic_dll\obj\Debug\net5.0\BusinessLogic_dll.csproj.AssemblyReference.cache

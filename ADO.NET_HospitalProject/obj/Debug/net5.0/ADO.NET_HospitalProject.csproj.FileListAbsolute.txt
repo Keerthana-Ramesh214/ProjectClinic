@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\bin\Debug\net5.0\ADO.NET_HospitalProject.deps.json
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\bin\Debug\net5.0\ADO.NET_HospitalProject.dll
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\bin\Debug\net5.0\ref\ADO.NET_HospitalProject.dll
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\bin\Debug\net5.0\ADO.NET_HospitalProject.pdb
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\obj\Debug\net5.0\ADO.NET_HospitalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\obj\Debug\net5.0\ADO.NET_HospitalProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\obj\Debug\net5.0\ADO.NET_HospitalProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\obj\Debug\net5.0\ADO.NET_HospitalProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\obj\Debug\net5.0\ADO.NET_HospitalProject.dll
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\obj\Debug\net5.0\ref\ADO.NET_HospitalProject.dll
+C:\Users\Admin\source\repos\ADO.NET_HospitalProject\obj\Debug\net5.0\ADO.NET_HospitalProject.pdb
